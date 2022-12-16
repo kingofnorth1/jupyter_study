@@ -1,0 +1,6 @@
+id	lecturer	级别	工龄
+1	liangquan	B	10
+2	moyi	B	9
+3	mengjian	C	5
+4	huangnan	A	3
+5	yanhao	C	7
